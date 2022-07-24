@@ -8,6 +8,14 @@ based on coroutines, making it easy to write highly concurrent applications.
 
 .. _asyncio: https://docs.python.org/3/library/asyncio.html
 
+No Longer Maintained
+--------------------
+
+**HBMQTT is no longer maintained**. There is a fork `aqmtt`_ under active development by different people. `See here for some background`_.
+
+.. _aqmtt: https://github.com/Yakifo/amqtt
+.. _See here for some background: https://github.com/beerfactory/hbmqtt/issues/235
+
 Features
 --------
 
